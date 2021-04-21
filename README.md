@@ -1,5 +1,5 @@
 # BookWorm
-Sample website built using the Laravel Framework to explore a variety of books.
+Sample WIP website built using the Laravel Framework to explore a variety of books.
 
 # Build
 This application uses [PHP](https://www.php.net) with [Laravel Framework](https://laravel.com).
@@ -8,7 +8,7 @@ This application uses [PHP](https://www.php.net) with [Laravel Framework](https:
 
 ![](crud-anim.gif)
 
-![](book-show.jpg)
+![](book-showcase.png)
 
 ## Dependencies
 
